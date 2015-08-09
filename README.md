@@ -1,4 +1,5 @@
-11/02/14 - 01:04:03 P.M. • @cometbus
+08.08.2015 — 07:47:12 PM -0700  
+Scott Haneda [@scotthaneda](https://twitter.com/scotthaneda)
 
 #powerBox
 This was an idea to make a USB charger in a cigarette box.  The description I made in git-hub needs to be updated as there were two projects.
